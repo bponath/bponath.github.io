@@ -1,6 +1,9 @@
 title: OffTheKerf
 description: This my blog
 author: Your Name
-theme: midnight
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
