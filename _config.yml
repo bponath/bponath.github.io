@@ -1,6 +1,6 @@
 title: OffTheKerf
-description: This my blog
-author: Your Name
+description: Just a guy learning more about things
+author: Brian
 theme: minima
 plugins:
   - jekyll-feed
