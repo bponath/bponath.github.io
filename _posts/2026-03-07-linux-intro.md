@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux System Intros"
+title: "Linux System Intro"
 date: 2026-03-07
 ---
 
