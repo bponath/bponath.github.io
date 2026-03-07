@@ -1,6 +1,6 @@
 title: OffTheKerf
 description: This my blog
 author: Your Name
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
