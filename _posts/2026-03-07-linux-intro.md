@@ -84,6 +84,6 @@ A process can have multiple threads of execution. Threads share the same memory,
 
 Threads can communicate via shared global variables and other IPC mechanisms. They can synchronize using different mechanisms as well such as semaphores. Theads allow for leveraging multiprocessor hardware, which is ubiquitous now.
 
+# The /proc filesystem
 
-
-
+The /prov filesystem is a special virtual filesystem mounted at `/proc`. This filesystem has files and directories used for showing various attributes of the processes. Attributes to a specific process are under the `/proc/{PDI}` directory where `PID` is that process's process ID. I'll create post later going into more depth on the /proc filesystem when I learn more about it.
